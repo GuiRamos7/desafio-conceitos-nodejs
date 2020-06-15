@@ -10,6 +10,7 @@
     "uuidv4": "^6.1.0"
   },
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "test": "jest"
   }
 }
